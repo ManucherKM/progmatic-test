@@ -1,6 +1,6 @@
-## Progmatic Lab | Test task
+# Progmatic Lab | Test task
 
-# Run
+## Run
 
 ```bash
 npm i && npm run start
