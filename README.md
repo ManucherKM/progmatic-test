@@ -12,7 +12,7 @@ or
 npm i && npm run dev
 ```
 
-# Result
+## Result
 
 ```bash
 98+76-5+43-2-10 = 200
